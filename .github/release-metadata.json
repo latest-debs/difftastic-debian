@@ -1,0 +1,31 @@
+{
+  "package": "difftastic",
+  "upstream_repo": "Wilfred/difftastic",
+  "version": "0.70.0",
+  "tag": "0.70.0",
+  "published_at": "2026-08-07T22:06:18Z",
+  "license": "MIT",
+  "asset": "difft-aarch64-unknown-linux-gnu.tar.gz",
+  "asset_size": 11626007,
+  "sha256": "e729684907d67d1a1727a08f443877e19e40eeb2efebcd95c1b8f7fee4284e8e",
+  "expected_sha256": "",
+  "checksum_source": "",
+  "checksum_verified": false,
+  "assets": {
+    "difft-x86_64-unknown-linux-gnu.tar.gz": {
+      "sha256": "2997d2bbe620534edbd79b0049f00ce84eef3fedb15c7822456d58e38d8b05c9",
+      "size": 11850389
+    },
+    "difft-aarch64-unknown-linux-gnu.tar.gz": {
+      "sha256": "e729684907d67d1a1727a08f443877e19e40eeb2efebcd95c1b8f7fee4284e8e",
+      "size": 11626007
+    },
+    "difft-x86_64-unknown-linux-musl.tar.gz": {
+      "sha256": "16f65a74a3d64d0bb44d31223d56d0ccaa9ad148f520322450a0629ee21f205f",
+      "size": 11904574
+    }
+  },
+  "asset_count": 3,
+  "vetted_at": "2026-08-19T15:19:22Z",
+  "vetted_by": ""
+}

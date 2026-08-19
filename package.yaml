@@ -1,0 +1,9 @@
+# Package definition for difftastic
+
+package_name: difftastic
+github_repo: Wilfred/difftastic
+artifact_format: tar.gz
+description: "A structural diff tool that compares files based on syntax rather than lines, understanding 30+ programming languages."
+license: MIT
+
+# Build for all Debian suites and all supported architectures.
